@@ -24,6 +24,8 @@ The Bluetooth proxy depends on :doc:`esp32_ble_tracker` so make sure to add that
 
 No configuration variables.
 
+Note: the option is not available until after updating the ESP32.
+
 See Also
 --------
 
